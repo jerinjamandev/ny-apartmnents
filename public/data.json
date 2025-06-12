@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Looking for a roommate in Mirpur",
+    "name": "Ratul",
+    "location": "Mirpur, Dhaka",
+    "rent": 5000,
+    "availability": "Available",
+    "roomType": "Single Room",
+    "contact": "017xxxxxxxx"
+  },
+  {
+    "id": 2,
+    "title": "Single room available in Mirpur",
+    "name": "Jerin",
+    "location": "Mirpur, Dhaka",
+    "rent": 4500,
+    "availability": "Available",
+    "roomType": "Single Room",
+    "contact": "018xxxxxxxx"
+  },
+  {
+    "id": 3,
+    "title": "Roommate needed in Uttara",
+    "name": "Jahidul Islam",
+    "location": "Uttara, Dhaka",
+    "rent": 6000,
+    "availability": "Available",
+    "roomType": "Single Room",
+    "contact": "019xxxxxxxx"
+  },
+  {
+    "id": 4,
+    "title": "Shared room available in Bashundhara",
+    "name": "Mouma Sultana",
+    "location": "Bashundhara, Dhaka",
+    "rent": 5500,
+    "availability": "Available",
+    "roomType": "Shared Room",
+    "contact": "016xxxxxxxx"
+  },
+  {
+    "id": 5,
+    "title": "Looking for roommate in Mohammadpur",
+    "name": "Rifat Hasan",
+    "location": "Mohammadpur, Dhaka",
+    "rent": 4800,
+    "availability": "Available",
+    "roomType": "Single Room",
+    "contact": "015xxxxxxxx"
+  },
+  {
+    "id": 6,
+    "title": "Roommate wanted in Banani",
+    "name": "Shirin Alam",
+    "location": "Banani, Dhaka",
+    "rent": 5200,
+    "availability": "Available",
+    "roomType": "Shared Room",
+    "contact": "014xxxxxxxx"
+  }
+]
